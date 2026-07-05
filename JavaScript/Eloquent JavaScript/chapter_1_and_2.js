@@ -1,3 +1,4 @@
+'use strict';
 
 // process belongs to node.js
 let a = process.cwd()
